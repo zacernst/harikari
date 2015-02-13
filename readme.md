@@ -12,7 +12,7 @@ unpredictable circumstances. For example, I have used it to test
 multiprocessing scripts that have to interface with external data
 sources that are unreliable, or may return bad data.
 
-In the future, I will allow you to specify a probability that the
+In the future, I'll add the ability to specify a probability that the
 exception is thrown within a specified time period -- for instance,
 to specify that there is a 10% chance of throwing an exception each
 minute.
