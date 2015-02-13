@@ -20,7 +20,7 @@ minute.
 Usage
 -----
 
-Just import `harikari.harikai` and wrap your function with it:
+Just import `harikari.harikari` and wrap your function with it:
 
 ```
 from harikari import harikari
